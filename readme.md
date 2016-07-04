@@ -1,1 +1,1 @@
-AVR32 laboratory exercises, ET014G <sub><sup>[Grade: A]</sup></sub>
+AVR32 laboratory exercises, ET014G
